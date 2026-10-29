@@ -1,7 +1,8 @@
 # Number ticket
 
-Implement `get_numbers_ticket(min, max, quantity)` in `get_numbers_ticket.py`.
-The function is currently an empty stub and should return a list of integers.
+`get_numbers_ticket(min, max, quantity)` in `get_numbers_ticket.py` returns a
+sorted list of unique random integers within the requested bounds, or an empty
+list when the bounds or quantity are invalid.
 
 Run the tests from this directory with:
 
